@@ -69,5 +69,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Wanted
 - Widgets for CPU monitoring, polished mail integration.
-- Audio/MPD integration that's not overly complex like AwsoMPD (which is somewhat bloated and buggy).
+- Audio/MPD integration that's not overly complex like AwsoMPD (which is somewhat bloated and buggy). What about [ncmpcpp](https://wiki.archlinux.org/index.php/Ncmpcpp)? [Project page](https://rybczak.net/ncmpcpp/) and [repo](https://github.com/ncmpcpp/ncmpcpp).
 - More theme bundles to share (if you want to share your theme, I ask that you attach a screenshot to your repo).
